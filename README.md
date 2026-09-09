@@ -83,4 +83,4 @@ The final asset should:
 
 ## Dataset Note
 
-The student-performance dataset is synthetic and is included for demonstrative benchmark purposes. The resulting model should therefore not be interpreted as evidence from a real student population.
+The student-performance dataset is synthetic and is included for demonstrative benchmark purposes. The resulting model should be interpreted as an illustration of the statistical modelling process rather than evidence about a real student population.
